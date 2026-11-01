@@ -1,8 +1,8 @@
 # COS 201 — Computer Programming I
 
 ## Student Information
-- Name: [Enter your full name]
-- Matriculation Number: [Enter your matriculation number]
+- Name: Abdulrasheed olashile jenmi 
+- Matriculation Number: 25/18753
 - Programme: Computer Science
 - Course: COS 201
 - Level: 200
